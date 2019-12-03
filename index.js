@@ -20,14 +20,17 @@ function johnLennonFacts(facts){
     
     
     
-function iLoveTheBeatles(number){
+function iLoveTheBeatles(num){
   
   let result=[];
   
     do{
       result.push("I love the Beatles!");
     }
-  w
+  
+    while(num<15){
+      
+    }
   
 
 }
