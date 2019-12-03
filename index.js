@@ -23,7 +23,6 @@ while(i<facts.length){
   final.push(facts[i]+ "!!!")
 }
 
-
   return final;
   
 }
