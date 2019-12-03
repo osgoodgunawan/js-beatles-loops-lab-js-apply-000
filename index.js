@@ -20,8 +20,8 @@ let final=[];
 let i=0;
 
 while(i<facts.length){
-  final.push(facts[i]+ "!!!")
-  i++
+  final.push(facts[i]+ "!!!");
+  i++;
 }
 
   return final;
