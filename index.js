@@ -19,7 +19,9 @@ function johnLennonFacts(facts){
 let final=[];
 let i=0;
 
-while(facts.length)
+while(i<facts.length){
+  facts[i]
+}
 
 
   
