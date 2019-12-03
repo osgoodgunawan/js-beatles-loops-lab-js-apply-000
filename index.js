@@ -16,7 +16,10 @@ function johnLennonFacts(facts){
   "He hated the sound of his own voice"
 ];
 
-while(facts)
+let final=[];
+let i=0;
+
+while(facts.length)
 
 
   
