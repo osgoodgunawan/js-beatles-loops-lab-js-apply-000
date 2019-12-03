@@ -15,7 +15,14 @@ function johnLennonFacts(facts){
           final.push(facts[i]+ "!!!");
           i++;
         }
-        
           return final;
-          
     }
+    
+    
+    
+function iLoveTheBeatles(number){
+  
+  let result=[];
+  
+
+}
